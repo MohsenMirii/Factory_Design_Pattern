@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Factory_Design_Pattern\\Factory_Design_Pattern\\Factory\\Factory\\Factory.csproj",
+      "projectUniqueName": "D:\\Project\\Factory_Design_Pattern\\Factory_Design_Pattern\\Factory\\Factory.csproj",
       "projectName": "Factory",
-      "projectPath": "D:\\Project\\Factory_Design_Pattern\\Factory_Design_Pattern\\Factory\\Factory\\Factory.csproj",
+      "projectPath": "D:\\Project\\Factory_Design_Pattern\\Factory_Design_Pattern\\Factory\\Factory.csproj",
       "packagesPath": "C:\\Users\\mrmhn\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Factory_Design_Pattern\\Factory_Design_Pattern\\Factory\\Factory\\obj\\",
+      "outputPath": "D:\\Project\\Factory_Design_Pattern\\Factory_Design_Pattern\\Factory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mrmhn\\AppData\\Roaming\\NuGet\\NuGet.Config",
